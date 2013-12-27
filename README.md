@@ -1,4 +1,4 @@
 MIDIController
 ==============
 
-Teensy MIDI Controller
+Teensy MIDI Controller for MIT Maker Portfolio.
